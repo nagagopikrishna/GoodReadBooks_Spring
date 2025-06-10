@@ -30,7 +30,7 @@ public class Book{
         return this.name;
     }
 
-    public void SetName(String name)
+    public void setName(String name)
     {
         this.name = name;
     }
@@ -40,7 +40,7 @@ public class Book{
         return this.imageUrl;
     }
 
-    public void SetImageUrl(String imageUrl)
+    public void setImageUrl(String imageUrl)
     {
         this.imageUrl = imageUrl;
     }
